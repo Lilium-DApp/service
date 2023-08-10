@@ -1,0 +1,5 @@
+{
+    "conventionalCommits.scopes": [
+        "mqtt_to_blockchain"
+    ]
+}
